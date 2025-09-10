@@ -7,14 +7,6 @@ With a strong foundation in **SQL, Excel, Python, and Data Visualization tools**
 
 ---
 
-## 🔧 Tech Skills  
-- **Languages & Tools:** SQL, Python (Pandas, NumPy, Matplotlib), Excel/Google Sheets  
-- **Visualization:** Power BI, Tableau  
-- **Data Handling:** Data Cleaning, Transformation, EDA (Exploratory Data Analysis)  
-- **Statistics & Business Intelligence:** A/B Testing, KPI Tracking, Reporting  
-
----
-
 ## 🚀 Current Focus  
 - Working on projects involving **real-world business datasets**  
 - Exploring **advanced analytics** like predictive modeling & machine learning  
