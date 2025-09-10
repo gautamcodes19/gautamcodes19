@@ -1,21 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I’m Gautam  
 
-👋 Hi, I’m Gautam
+💡 **Data Analyst | Problem Solver | Insights Enthusiast**  
 
-I’m a Data Analyst passionate about turning raw data into actionable insights that drive smarter business decisions.
-With a strong foundation in SQL, Excel, Python, and data visualization tools (like Power BI & Tableau), I love finding patterns, solving problems, and telling compelling data-driven stories.
+I’m passionate about turning **raw data into actionable insights** that help businesses make informed decisions.  
+With a strong foundation in **SQL, Excel, Python, and Data Visualization tools**, I love exploring datasets, finding hidden trends, and telling a compelling story with numbers.  
 
-<!--
-**gautamcodes19/gautamcodes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tech Skills  
+- **Languages & Tools:** SQL, Python (Pandas, NumPy, Matplotlib), Excel/Google Sheets  
+- **Visualization:** Power BI, Tableau  
+- **Data Handling:** Data Cleaning, Transformation, EDA (Exploratory Data Analysis)  
+- **Statistics & Business Intelligence:** A/B Testing, KPI Tracking, Reporting  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 What I Do  
+✅ Collect, clean, and analyze data  
+✅ Build dashboards & reports for decision-makers  
+✅ Identify trends, opportunities, and areas of improvement  
+✅ Present insights with clarity and impact  
+
+---
+
+## 🚀 Current Focus  
+- Improving my **data storytelling** & dashboard design skills  
+- Working on projects involving **real-world business datasets**  
+- Exploring **advanced analytics** like predictive modeling & machine learning  
+
+---
+
+## 🌐 Let’s Connect  
+📩 **Email:** work.gautam62@gmail.com  
+💼 **LinkedIn:** https://tinyurl.com/u5ahnfhz   
