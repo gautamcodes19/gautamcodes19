@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+👋 Hi, I’m Gautam
+
+I’m a Data Analyst passionate about turning raw data into actionable insights that drive smarter business decisions.
+With a strong foundation in SQL, Excel, Python, and data visualization tools (like Power BI & Tableau), I love finding patterns, solving problems, and telling compelling data-driven stories.
+
 <!--
 **gautamcodes19/gautamcodes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
