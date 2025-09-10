@@ -15,16 +15,7 @@ With a strong foundation in **SQL, Excel, Python, and Data Visualization tools**
 
 ---
 
-## 📊 What I Do  
-✅ Collect, clean, and analyze data  
-✅ Build dashboards & reports for decision-makers  
-✅ Identify trends, opportunities, and areas of improvement  
-✅ Present insights with clarity and impact  
-
----
-
 ## 🚀 Current Focus  
-- Improving my **data storytelling** & dashboard design skills  
 - Working on projects involving **real-world business datasets**  
 - Exploring **advanced analytics** like predictive modeling & machine learning  
 
